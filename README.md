@@ -1,4 +1,4 @@
-# Payment-Processing-Project-with-Various-Frameworks-Ionic-React-Native-Angular-Nodejs
+# Payment Processing Project with Various Frameworks Ionic React-Native Angular React Nodejs
 
 <strong> Hello, This project currently underhold dueto final year project, Thanks for understanding!  </strong> 
 
